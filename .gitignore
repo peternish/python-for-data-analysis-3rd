@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+
+#ignore data in the datasets folder
+datasets/
