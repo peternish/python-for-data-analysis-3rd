@@ -1,5 +1,7 @@
 # Python for Data Analysis, 3rd Edition
 
+My practice on 5 case studies in the chapter 13.
+
 Materials and IPython notebooks for "Python for Data Analysis, 3rd
 Edition" by Wes McKinney, published by O'Reilly Media. 
 
