@@ -5,19 +5,6 @@ Edition" by Wes McKinney, published by O'Reilly Media. Book content
 including updates and errata fixes can be [found for free on my
 website][6].
 
-[Buy the book on Amazon][1]
-
-Follow Wes on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/wesmckinn.svg?style=social&label=Follow)](https://twitter.com/wesmckinn)
-
-# 2nd Edition Readers
-
-If you are reading the 2nd Edition (published in 2017), please find the
-reorganized book materials on the [`2nd-edition` branch][5].
-
-# 1st Edition Readers
-
-If you are reading the 1st Edition (published in 2012), please find the
-reorganized book materials on the [`1st-edition` branch][2].
 
 ## IPython Notebooks:
 
